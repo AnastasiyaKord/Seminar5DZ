@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.AssemblyInfo.cs
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\bin\Debug\net7.0\Задача38.exe
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\bin\Debug\net7.0\Задача38.deps.json
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\bin\Debug\net7.0\Задача38.runtimeconfig.json
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\bin\Debug\net7.0\Задача38.dll
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\bin\Debug\net7.0\Задача38.pdb
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.dll
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\refint\Задача38.dll
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.pdb
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\Задача38.genruntimeconfig.cache
+C:\Users\HP\Desktop\Seminar5DZ\Задача38\obj\Debug\net7.0\ref\Задача38.dll
